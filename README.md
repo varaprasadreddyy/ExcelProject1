@@ -7,6 +7,6 @@ Functionality - The excel file can be used to forecast and visualize in a calend
 
 PymtDatesForecast - This sheet is where inputs are captured and forecast data is stored.
                     Just input start dates and tenures.
-                    For extending the forecast data further - extend the table and just put the next serial number in col1
+                    For extending the forecast data further - just add required number of new rows at the end of the table.
 PaymentTimeline   - The forecast data in the previous sheet is visualized int this sheet.
                     Select the last four rows and drag down with Fill Handle in multiples of 4 to further extend the calender.
